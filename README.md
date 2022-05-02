@@ -1,1 +1,1 @@
-# Multi-channel-Automatic-Temperature-Controller
+# Multi-Channel-Automatic-Temperature-Controller
