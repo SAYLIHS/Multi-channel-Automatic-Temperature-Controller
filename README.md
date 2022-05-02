@@ -7,4 +7,3 @@
 ![6](https://user-images.githubusercontent.com/104759432/166212895-1b7b0005-80f7-4e67-9087-30cb090b4134.png)
 ![7](https://user-images.githubusercontent.com/104759432/166212899-d5649ecc-6529-4295-94fb-92e3b96de3db.png)
 ![8](https://user-images.githubusercontent.com/104759432/166212905-0b51b9b2-a5e0-4ee1-a1f4-0d308aaacb20.png)
-![9](https://user-images.githubusercontent.com/104759432/166212908-c5b00b02-8a5a-405e-b3ef-5f5caba2143b.png)
