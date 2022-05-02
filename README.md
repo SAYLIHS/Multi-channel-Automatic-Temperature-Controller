@@ -1,5 +1,4 @@
 # Multi-Channel-Automatic-Temperature-Controller
-![1](https://user-images.githubusercontent.com/104759432/166212874-fd374da9-42d5-46f0-a1e3-f1a7712d8cf4.png)
 ![2](https://user-images.githubusercontent.com/104759432/166212879-e4852138-40a1-494e-80ca-fb1d8499b467.png)
 ![3](https://user-images.githubusercontent.com/104759432/166212880-4864da3b-0e88-48f2-b9a2-8f6f07918c35.png)
 ![4](https://user-images.githubusercontent.com/104759432/166212883-223645a9-ff1c-42ed-bd62-a73bd3b7ba96.png)
